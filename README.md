@@ -5,6 +5,6 @@ my local machine space is full.
 
 How to run project: 
 1. Go to the project directory then, 
-	$ npm start
+$ npm start
 	
 2. Add GitHub user's name and press Enter/Add Card button. 	
